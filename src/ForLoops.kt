@@ -12,6 +12,6 @@ fun main(){
         println(i)
     }
     for (x in 0..ukuranArray){
-        println("Index ke $x =  ${names.get(x)}")
+        println("Index ke $x =  ${names.get(x)} ")
     }
 }
