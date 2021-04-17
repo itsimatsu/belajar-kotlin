@@ -1,4 +1,4 @@
-fun main(args: Array<String>){
+fun main(){
     val Nilai: Char = 'A'
 
     when(Nilai){
